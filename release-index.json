@@ -1,8 +1,21 @@
 {
   "schemaVersion": 1,
   "releases": [
-    { "id": "desktop-0.1.6", "publishedAt": "2026-10-28T16:38:08Z" },
-    { "id": "desktop-0.1.7", "publishedAt": "2026-10-28T18:18:19Z" },
-    { "id": "desktop-0.1.8", "publishedAt": "2026-10-28T19:31:56Z" }
+    {
+      "id": "desktop-0.1.6",
+      "publishedAt": "2026-10-28T16:38:08Z"
+    },
+    {
+      "id": "desktop-0.1.7",
+      "publishedAt": "2026-10-28T18:18:19Z"
+    },
+    {
+      "id": "desktop-0.1.8",
+      "publishedAt": "2026-10-28T19:31:56Z"
+    },
+    {
+      "id": "desktop-0.1.9",
+      "publishedAt": "2026-10-28T20:23:40Z"
+    }
   ]
 }
