@@ -32,6 +32,11 @@
     {
       "id": "desktop-0.1.13",
       "publishedAt": "2026-10-29T21:18:42Z"
+    },
+    {
+      "id": "mobile-ota-2026-10-29-safe-area",
+      "publishedAt": "2026-10-29T21:58:22.472Z",
+      "updateId": "01a189ab-d608-76de-952b-371caa0a5a81"
     }
   ]
 }
