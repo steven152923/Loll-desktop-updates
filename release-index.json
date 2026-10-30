@@ -50,6 +50,11 @@
       "id": "mobile-ota-2026-10-30-community-home",
       "publishedAt": "2026-10-30T00:26:15.869Z",
       "updateId": "01a18a33-3bbd-7f3a-be14-5fefdfbd70ec"
+    },
+    {
+      "id": "mobile-ota-2026-10-30-community-drawer",
+      "publishedAt": "2026-10-30T23:04:27.318Z",
+      "updateId": "01a18f0e-b1b6-7c96-b9f6-a93acc817668"
     }
   ]
 }
