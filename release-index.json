@@ -93,6 +93,10 @@
       "id": "mobile-ota-2026-10-31-profile-navigation",
       "publishedAt": "2026-10-31T23:17:04.767Z",
       "updateId": "01a19440-9c7f-796f-91cd-84b4d3399245"
+    },
+    {
+      "id": "desktop-0.1.17",
+      "publishedAt": "2026-10-31T23:18:20Z"
     }
   ]
 }
