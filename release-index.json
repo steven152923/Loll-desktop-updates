@@ -55,6 +55,11 @@
       "id": "mobile-ota-2026-10-30-community-drawer",
       "publishedAt": "2026-10-30T23:04:27.318Z",
       "updateId": "01a18f0e-b1b6-7c96-b9f6-a93acc817668"
+    },
+    {
+      "id": "mobile-ota-2026-10-31-community-layout",
+      "publishedAt": "2026-10-31T00:41:21.867Z",
+      "updateId": "01a18f67-6acb-788b-bb2e-5866ba2ebec4"
     }
   ]
 }
