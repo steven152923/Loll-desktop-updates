@@ -88,6 +88,11 @@
       "id": "mobile-ota-2026-10-31-visual-pass",
       "publishedAt": "2026-10-31T22:59:22.765Z",
       "updateId": "01a19430-680d-7f2d-a535-d2fabbcfdd66"
+    },
+    {
+      "id": "mobile-ota-2026-10-31-profile-navigation",
+      "publishedAt": "2026-10-31T23:17:04.767Z",
+      "updateId": "01a19440-9c7f-796f-91cd-84b4d3399245"
     }
   ]
 }
