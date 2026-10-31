@@ -83,6 +83,11 @@
       "id": "mobile-ota-2026-10-31-profile-settings",
       "publishedAt": "2026-10-31T20:37:09.872Z",
       "updateId": "01a193ae-3470-7684-8a36-5637edd3e137"
+    },
+    {
+      "id": "mobile-ota-2026-10-31-visual-pass",
+      "publishedAt": "2026-10-31T22:59:22.765Z",
+      "updateId": "01a19430-680d-7f2d-a535-d2fabbcfdd66"
     }
   ]
 }
