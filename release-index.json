@@ -78,6 +78,11 @@
     {
       "id": "desktop-0.1.16",
       "publishedAt": "2026-10-31T20:27:52Z"
+    },
+    {
+      "id": "mobile-ota-2026-10-31-profile-settings",
+      "publishedAt": "2026-10-31T20:37:09.872Z",
+      "updateId": "01a193ae-3470-7684-8a36-5637edd3e137"
     }
   ]
 }
