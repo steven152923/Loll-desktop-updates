@@ -159,6 +159,16 @@
       "id": "mobile-ota-community-emoji-upload-android",
       "publishedAt": "2026-11-01T19:51:41.715Z",
       "updateId": "01a198aa-ef93-7efd-b166-c209f863e0a3"
+    },
+    {
+      "id": "mobile-ota-community-expression-picker-ios",
+      "publishedAt": "2026-11-01T20:09:23.682Z",
+      "updateId": "01a198bb-23e2-760c-bf87-e532d8457e12"
+    },
+    {
+      "id": "mobile-ota-community-expression-picker-android",
+      "publishedAt": "2026-11-01T20:09:23.682Z",
+      "updateId": "01a198bb-23e2-7e6e-9661-a0d5e1e5448a"
     }
   ]
 }
