@@ -107,6 +107,10 @@
       "id": "mobile-ota-2026-11-01-visual-correction",
       "publishedAt": "2026-11-01T12:55:35.397Z",
       "updateId": "01a1972d-fae5-7ff9-9e2b-8184c6bc6195"
+    },
+    {
+      "id": "desktop-0.1.18",
+      "publishedAt": "2026-11-01T13:02:24Z"
     }
   ]
 }
