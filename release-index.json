@@ -125,6 +125,20 @@
     {
       "id": "desktop-0.1.19",
       "publishedAt": "2026-11-01T15:56:19Z"
+    },
+    {
+      "id": "desktop-0.1.20",
+      "publishedAt": "2026-11-01T17:12:44Z"
+    },
+    {
+      "id": "mobile-ota-2026-11-01-hour-two-ios",
+      "publishedAt": "2026-11-01T17:11:30.878Z",
+      "updateId": "01a19818-493e-7ffa-8542-5bf07b1e391e"
+    },
+    {
+      "id": "mobile-ota-2026-11-01-hour-two-android",
+      "publishedAt": "2026-11-01T17:11:30.878Z",
+      "updateId": "01a19818-493e-7fdc-b003-4991101c820d"
     }
   ]
 }
