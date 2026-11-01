@@ -97,6 +97,16 @@
     {
       "id": "desktop-0.1.17",
       "publishedAt": "2026-10-31T23:18:20Z"
+    },
+    {
+      "id": "mobile-ota-2026-10-31-reliability",
+      "publishedAt": "2026-11-01T12:02:18.632Z",
+      "updateId": "01a196fd-3388-7b69-9b96-c7e8e5d4d611"
+    },
+    {
+      "id": "mobile-ota-2026-11-01-visual-correction",
+      "publishedAt": "2026-11-01T12:55:35.397Z",
+      "updateId": "01a1972d-fae5-7ff9-9e2b-8184c6bc6195"
     }
   ]
 }
