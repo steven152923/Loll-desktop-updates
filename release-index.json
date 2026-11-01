@@ -139,6 +139,16 @@
       "id": "mobile-ota-2026-11-01-hour-two-android",
       "publishedAt": "2026-11-01T17:11:30.878Z",
       "updateId": "01a19818-493e-7fdc-b003-4991101c820d"
+    },
+    {
+      "id": "mobile-ota-community-identity-ios",
+      "publishedAt": "2026-11-01T19:38:47.627Z",
+      "updateId": "01a1989f-1fcb-7abf-a817-190538bd0ca8"
+    },
+    {
+      "id": "mobile-ota-community-identity-android",
+      "publishedAt": "2026-11-01T19:38:47.627Z",
+      "updateId": "01a1989f-1fcb-76ff-af86-d7ed49926232"
     }
   ]
 }
