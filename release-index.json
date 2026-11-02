@@ -182,6 +182,10 @@
       "id": "mobile-ota-build8-chat-correction-ios",
       "publishedAt": "2026-11-02T19:43:12.216Z",
       "updateId": "01a19dc9-8558-790b-83a6-7e6879d9cbde"
+    },
+    {
+      "id": "desktop-0.1.23",
+      "publishedAt": "2026-11-02T19:47:53Z"
     }
   ]
 }
