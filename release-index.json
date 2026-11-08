@@ -214,6 +214,10 @@
       "id": "mobile-ota-build13-community-soundboard-ios",
       "publishedAt": "2026-11-08T00:35:07.145Z",
       "updateId": "01a1b894-9309-7f43-8f06-6b5aaa6a3cb2"
+    },
+    {
+      "id": "desktop-0.1.26-community-soundboard",
+      "publishedAt": "2026-11-08T00:55:17Z"
     }
   ]
 }
